@@ -1,12 +1,14 @@
-**Introducción**
+﻿**Introducción**
 
-![](media/d25051361c62595d4627c0afd7d7a5a5.png)
 
 **Mojo Helpdesk** es la aplicación de servicio técnico súper simple de usar para
 atención al cliente, solicitudes de TI, solicitudes de mantenimiento y mucho
 más.
 
 Versiones
+
+![](media/d25051361c62595d4627c0afd7d7a5a5.png)
+
 
 **Características de la versión que utilizaremos:**
 
