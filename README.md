@@ -83,40 +83,49 @@ Versiones
 
 >   **Instalación:**
 
-![](media/670996a880305d05c3d777728e951482.png)
+
 
 Vamos a la pagina “https://www.mojohelpdesk.com/pricing/” y seleccionamos la
 versión MINI ME
 
-![](media/8a670ea2f0d839c0787259eac3f478ce.png)
+![](media/670996a880305d05c3d777728e951482.png)
 
+	
 Ahora rellenamos los campos para registrarnos y crear nuestro portal. (El número
 de teléfono es inventado y el correo es temporal para hacer esta práctica)
 
-![](media/ca08e4c7c19f1175b50f9c75f5c01e44.png)
+![](media/8a670ea2f0d839c0787259eac3f478ce.png)
+
+
 
 Este es la pantalla de inicio de nuestro Helpdesk.
 
-![](media/096c6aa65e487c80d9e27389bfb117b8.png)
+![](media/ca08e4c7c19f1175b50f9c75f5c01e44.png)
+
+
 
 Ahora una vez creado podríamos editar a nuestro gusto (dentro de las
 limitaciones de la versión trial) nuestro portal de asistencia. Para llegar
 hasta este punto iremos en la parte superior derecha, haremos click en la rueda
 dentada y click en Admin Settings.
 
+![](media/096c6aa65e487c80d9e27389bfb117b8.png)
+
 1.  Antes de pasar al apartado cliente editaremos el apartado del portal de cara
     al cliente.
 
-    ![](media/2e2e52c45815164abe28ad137c637554.png)
-
+    
     Vamos al apartado de **Helpdesk design** y cambiamos el fondo.
+
+	![](media/2e2e52c45815164abe28ad137c637554.png)
+
 
     1.  Ahora el apartado de texto que verá el usuario que será en el apartado
         **Help Center Settings**.
 
 ![](media/6c20ebdca59f34f19f3f21248b2b5fd7.png)
 
-1.  Este seriamos un aspecto final.
+1.  Este seria un aspecto final.
 
 ![](media/4663e29ea9c53e8005a8f280227c1118.png)
 
@@ -126,13 +135,16 @@ dentada y click en Admin Settings.
     *https://abrahamsolucions.mojohelpdesk.com/* (se encuentra con la misma el
     portal que la foto anterior).
 
-![](media/d11d86a54b62fe4cef59223204bc55f2.png)
 
 Para crear una incidencia o ticket haremos click en *New ticket*.
 
-![](media/edb3d969a114de0b007333b4f1bbdcbb.png)
+![](media/d11d86a54b62fe4cef59223204bc55f2.png)
+
 
 Rellenamos ahora el ticket y lo enviamos.
+
+![](media/edb3d969a114de0b007333b4f1bbdcbb.png)
+
 
 **Apartado administrador**
 
@@ -142,15 +154,15 @@ Ahora nos llegaría la incidencia.
 
 ![](media/160626d4abc198bba04d8124b88ae446.png)
 
-Ahora abriremos la incidencia.
+Ahora abriremos la incidencia y le respondemos.
 
 ![](media/dac9d5d7d9766f4872694de2e7bbde62.png)
 
-Y le respondemos.
+
+Y esto es lo que se encontraría el cliente el correo.
 
 ![](media/674f0514460f2d509275bab0c985b801.png)
 
-Y esto es lo que se encontraría el cliente el correo.
 
 **Conclusión.**
 
