@@ -161,7 +161,7 @@ Ahora abriremos la incidencia y le respondemos.
 
 Y esto es lo que se encontraría el cliente el correo.
 
-![](media/674f0514460f2d509275bab0c985b801.png)
+![](media/Screenshot_1.png)
 
 
 **Conclusión.**
